@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Onlinez.ai - Amazon Product Discovery",
   description: "Discover and explore amazing products from Amazon",
+  other: {
+    'impact-site-verification': '38b47b72-a719-4197-b4f0-5bc4ee16268d',
+  },
 };
 
 export default function RootLayout({
